@@ -1,0 +1,12 @@
+name = "Power Grid: Longer Wires"
+filename = "powergrid_longer_wires-1.21.1-1.0.0.jar"
+side = 'both'
+
+[download]
+hash-format = 'sha512'
+hash = '881558d8fe65d06dfbfe92cf8789206db2ccff7c72db2ba9cba69ddc76db4b43e2e3f39f251a11a9187a7ff523e73c74a6015c038f1a26ac450c9311acf83b34'
+url = 'https://cdn.modrinth.com/data/yKBUAtiO/versions/U8Yj2wBW/powergrid_longer_wires-1.21.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'yKBUAtiO'
+version = 'U8Yj2wBW'

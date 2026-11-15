@@ -1,0 +1,12 @@
+name = "Aeronautics Military Structures"
+filename = "aeronautics_military_structures-0.0.1.jar"
+side = 'both'
+
+[download]
+hash-format = 'sha512'
+hash = 'cbc5b25425098cc0bfefc1c3c5bf7f36788b9946f900e4f546665fd719e6e0b45f78a2470c1fdf23c7e1b05a8996da6354352546bef40db5fb79dd34d40fc7d7'
+url = 'https://cdn.modrinth.com/data/Mkrg6jtp/versions/mCrajMfp/aeronautics_military_structures-0.0.1.jar'
+
+[update.modrinth]
+mod-id = 'Mkrg6jtp'
+version = 'mCrajMfp'
