@@ -781,11 +781,6 @@ hash = '26dba7e1d77116497eb0e348f557169942f5aaa64a38b99d806d21e93da9e7ce'
 metafile = true
 
 [[files]]
-file = 'mods/when-dungeons-arise.pw.toml'
-hash = 'f5d93bf8736e5edd8dc260959d32322d9d330566222a5de78e1fe6e39c7644d3'
-metafile = true
-
-[[files]]
 file = 'mods/xaeros-minimap.pw.toml'
 hash = '12d831bf8e841709eaa7ba617e01a5bae718dd6eb03b806c8d9b5ddd97526ab1'
 metafile = true
