@@ -421,11 +421,6 @@ hash = 'ab7dcd4298ec855ccef087e7f11007d2b858fef10df6cca0a8578969a94ce326'
 metafile = true
 
 [[files]]
-file = 'mods/falling-leaves.pw.toml'
-hash = '2c4b40465b1bd8623409dcf0a0f0e23f07f985fff825c85aab72ae53155a56df'
-metafile = true
-
-[[files]]
 file = 'mods/farmers-delight.pw.toml'
 hash = '7994f6852f299ad203afc8752010b80a3f4358a717711624d556ff6e3df5bf00'
 metafile = true
